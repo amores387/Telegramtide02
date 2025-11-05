@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/amores387/tiedmaster.git",
+  "branch": "main",
+  "preserve": ["setup"],
+  "backup": "core/backups"
+}
